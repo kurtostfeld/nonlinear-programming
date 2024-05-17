@@ -1,0 +1,5 @@
+matplotlib==3.8.4
+sympy==1.12
+torch==2.2.2
+flake8==7.0.0
+pytest==8.2.0

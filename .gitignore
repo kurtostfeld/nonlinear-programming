@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*.pyc
+
+generated
+__pycache__
+
