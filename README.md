@@ -3,12 +3,16 @@ README
 
 # Introduction #
 
+This is a final project that I did as a student for course ORI 391.Q nonlinear programming that I took in Spring 2024 with [Professor Bollapragada](https://sites.google.com/view/raghub/home). The [assignment](site/assignment.pdf) involved implementing several different optimization algorithms on several different problems and comparing success minimization metrics and convergence properties.
+
+# Instructions to Run Code #
+
 To run this code, first setup and active a Python virtual environment. All the other instructions in this README will assume that such an environment has been setup and activated.
 
 # virtualenv setup #
 
 ```bash
-cd code-final
+cd nonlinear-programming
 rm -rf venv
 # This is assuming you are using Homebrew. If you are using some other environment, adjust this command accordingly.
 /opt/homebrew/opt/python@3.12/bin/python3.12 -m venv venv
