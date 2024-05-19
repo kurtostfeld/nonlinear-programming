@@ -3,7 +3,7 @@ README
 
 # Introduction #
 
-This is a final project that I did as a student for course ORI 391.Q nonlinear programming that I took in Spring 2024 with [Professor Bollapragada](https://sites.google.com/view/raghub/home). The [assignment](site/assignment.pdf) involved implementing several different optimization algorithms on several different problems and comparing success minimization metrics and convergence properties.
+This is a final project that I did as a student for course ORI 391.Q nonlinear programming that I took in Spring 2024 with [Professor Bollapragada](https://sites.google.com/view/raghub/home). The [assignment](docs/assignment.pdf) involved implementing several different optimization algorithms on several different problems and comparing success minimization metrics and convergence properties.
 
 # Instructions to Run Code #
 
